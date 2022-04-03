@@ -24,3 +24,5 @@ The code is dividing into two parts:
 Part1 - contains exercises demonstrating simple user authentication, password cracking exercises. (For more information , check the attached weekly brief).
 Part 2 - contains an advanced exercise which is Fixing Needham-Schroeder protocol to save from Replay attacks by introducing timestamp and extra nounces to verify users.
 
+A log book CO876-as2634-CW2 is also attached which describes how I did each exercise
+
