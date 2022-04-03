@@ -20,6 +20,7 @@ For example to run W17Q1.py
 
 ### What is in the code
 The code is dividing into two parts:
+
 Part1 - contains exercises demonstrating simple user authentication, password cracking exercises. (For more information , check the attached weekly brief).
 Part 2 - contains an advanced exercise which is Fixing Needham-Schroeder protocol to save from Replay attacks by introducing timestamp and extra nounces to verify users.
 
