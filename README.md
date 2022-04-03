@@ -1,4 +1,4 @@
-# computer_security_User_Authentication
+# Computer_Security_User_Authentication
 This is Assignment 2 of Computer Security Module and contains multiple simple exercises to demonstrate the following:
 1. Week17 - This week covers some password cracking exercises
 2. Week18 - This week covered some exercises about different methods of user authentication
